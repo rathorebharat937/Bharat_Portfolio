@@ -9,7 +9,7 @@
   <br />
   <br />
 
-  <h2 align="center">Julia - Portfolio Website</h2>
+  <h2 align="center">Bharat Rathore - Portfolio Website</h2>
 
   A fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Julia Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Bharat Rathore Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Julia** locally, run this command on your git bash:
+To run **Bharat Rathore**'s portfolio locally, run this command on your git bash:
 
 Linux and macOS:
 
